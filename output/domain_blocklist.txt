@@ -1,1 +1,3 @@
-
+badactor.net
+example.com
+malicious-site.com
