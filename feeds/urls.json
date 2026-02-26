@@ -1,1 +1,7 @@
 
+[
+  {"url": "http://malicious-site.com/login"},
+  {"url": "http://badactor.net/payload"},
+  {"url": "http://example.com"},
+  {"url": "http://malicious-site.com/login"}
+]
