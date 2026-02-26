@@ -6,7 +6,7 @@ This project implements a Threat Intelligence Aggregator designed to collect, pa
 
 The system processes CSV, TXT, and JSON feeds and produces actionable intelligence outputs for defensive security controls.
 
----
+
 
 ##  Key Features
 
@@ -18,7 +18,7 @@ The system processes CSV, TXT, and JSON feeds and produces actionable intelligen
 - Automated blocklist generation
 - Deployment-ready output files
 
----
+
 
 ##  Workflow Architecture
 
@@ -38,7 +38,6 @@ Generate Blocklists
 Export Results
 
 
----
 
 ##  Project Structure
 
@@ -51,28 +50,9 @@ Threat-Intelligence-Aggregator
 └── README.md
 
 
----
 
-## Project Demonstration
 
-###  Project Structure
-![Project Structure](screenshots/project_structure.png)
-
-###  Sample IOC Feeds
-![Sample Feeds](screenshots/sample_feeds.png)
-
-###  IOC Parsing & Validation
-![Parsing Output](screenshots/ioc_parsing_output.png)
-
-###  Enterprise Correlation Engine
-![Correlation](screenshots/enterprise_correlation.png)
-
-###  Generated Blocklists
-![Blocklist](screenshots/blocklist_generation.png)
-
----
-
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3.13
 - re (Regular Expressions)
@@ -83,7 +63,7 @@ Threat-Intelligence-Aggregator
 - VS Code
 - Windows PowerShell
 
----
+
 
 ##  Learning Outcomes
 
@@ -94,7 +74,7 @@ Threat-Intelligence-Aggregator
 - Blue Team automation
 - Blocklist-based defensive security
 
----
+
 
 ##  Future Enhancements
 
